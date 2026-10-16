@@ -1,0 +1,8 @@
+{
+  "versionCode": 16,
+  "versionName": "1.12.0",
+  "apkUrl": "https://YOUR-USERNAME.github.io/YOUR-REPO/apk/snow.apk",
+  "notes": "First release.",
+  "force": true,
+  "sha256": ""
+}
